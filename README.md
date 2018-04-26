@@ -2,10 +2,7 @@
 
 A simple DBMS project which keeps record of departments and courses offered by them.
 
-Setup    : LAMP
-Frontend : HTML & CSS
-Backend  : PHP
-Database : MySQL
+Setup : LAMP , Frontend : HTML & CSS , Backend : PHP , Database : MySQL
 
 Functionalities :
 Add Department, See Department Details, Add Course, See Course Details, Offering.
