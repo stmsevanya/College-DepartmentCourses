@@ -16,9 +16,9 @@ How to run:
 2) Store in '/var/www/html' or '/opt/lampp/htdocs' as per your setup
     
 3) Create your database in MySQL with following tables :
-   (a) Department(dept_cd, dept_name, year_established)
-   (b) Course(course_cd, course_name, no_of_credits)
-   (c) Offering(dept_cd, course_cd, semester)
+   Department(dept_cd, dept_name, year_established) , 
+   Course(course_cd, course_name, no_of_credits) , 
+   Offering(dept_cd, course_cd, semester) , 
    NOTE: no_of_credits, year_established and dept_cd need to be numeric. More constraints mentioned in snapshot of PS attached.
 
 4) Change database details in db.php file as per your database info
