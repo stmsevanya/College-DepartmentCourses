@@ -6,6 +6,7 @@ Setup : LAMP , Frontend : HTML & CSS , Backend : PHP , Database : MySQL
 
 Functionalities :
 Add Department, See Department Details, Add Course, See Course Details, Offering.
+
 NOTE : Snapshot of problem statement is attached to expalain functionalities and other constraints.
 
 
